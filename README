@@ -1,7 +1,3 @@
-##Rabbit reproduce problem.
+##Longest substring without repeating characters
 
-###Conditions:
-1. Rabbits are born in pairs, staring from month 1.
-2. Time counting start from month 1.
-3. Rabbits start reproduce in month 3.
-4. Rabbits reproduce in month 10, then dies.
+Test cases in the unit test.
